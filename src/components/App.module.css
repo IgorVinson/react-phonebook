@@ -1,0 +1,22 @@
+.App {
+  margin-left: 20px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-left: 20px;
+}
+
+input {
+  width: 320px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}

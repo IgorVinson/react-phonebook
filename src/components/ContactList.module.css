@@ -1,0 +1,16 @@
+li {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+}
+
+li > button {
+  transition: all 0.3s ease-in-out;
+  border: none;
+  background: none;
+}
+
+li:not(:hover) > button {
+  opacity: 0;
+}
+
