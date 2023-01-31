@@ -5,7 +5,7 @@ export class Form extends Component {
 
   render() {
 
-    const { name, handleChange } = this.props;
+    const { handleChange } = this.props;
     return (
       <>
         <form onSubmit={(e) => handleChange(e)}>
